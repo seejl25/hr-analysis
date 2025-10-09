@@ -92,7 +92,7 @@ The dashboard includes multiple visual components:
 
 - Understanding attrition drivers and workforce composition
 
-##🧠 Future Enhancements
+## 🧠 Future Enhancements
 
 - Add predictive analysis using Python (e.g., logistic regression on attrition likelihood)
 
